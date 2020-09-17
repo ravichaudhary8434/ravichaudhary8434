@@ -1,6 +1,6 @@
 ## Hi there, I'm Ravi Chaudhary 👋
 
-<!-- <img align='right' src="avatar.png" width="230"> -->
+<img align='right' src="https://github.com/malhotraravi842/malhotraravi842/blob/master/avatar.png" width="230">
 
 #### I am a web developer and Competitive Programmer currently pursuing my B.Tech in CSE from Bhagalpur College of Engineering. I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. Being a Computer Science Student, Coding is like a hobby to me, Developing Web and Android Applications gives me more happiness.
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-# Connect with me<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/malhotraravi842/malhotraravi842/blob/master/Handshake.gif" height="32px">
 
 
 
