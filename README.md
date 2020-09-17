@@ -2,7 +2,7 @@
 
 <img align='right' src="avatar.png" width="230">
 
-### I am a web developer and Competitive Programmer currently pursuing my B.Tech in CSE from Bhagalpur College of Engineering. I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. Being a Computer Science Student, Coding is like a hobby to me, Developing Web and Android Applications gives me more happiness.
+#### I am a web developer and Competitive Programmer currently pursuing my B.Tech in CSE from Bhagalpur College of Engineering. I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. Being a Computer Science Student, Coding is like a hobby to me, Developing Web and Android Applications gives me more happiness.
 
 
 - 🔭 I’m currently working on Django & Flutter
@@ -16,12 +16,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ravichaudhary.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+| [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" alt="Linkedin Logo" width="32">][linkedin] | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Twitter.svg" alt="Twitter Logo" width="32">][twitter] | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" alt="instagram logo" width="32">][instagram] | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/HackerRank.svg" alt="HackerRank Logo" width="30">][hackerrank] | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">][stackoverflow] | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">][medium] | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Gmail.svg" alt="Gmail logo" height="32">](mailto:malhotraravi842@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 <br>
 
