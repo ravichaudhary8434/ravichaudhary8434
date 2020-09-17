@@ -1,6 +1,6 @@
 ## Hi there, I'm Ravi Chaudhary 👋
 
-<img align='right' src="avatar.png" width="230">
+<!-- <img align='right' src="avatar.png" width="230"> -->
 
 #### I am a web developer and Competitive Programmer currently pursuing my B.Tech in CSE from Bhagalpur College of Engineering. I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. Being a Computer Science Student, Coding is like a hobby to me, Developing Web and Android Applications gives me more happiness.
 
@@ -13,13 +13,6 @@
 - 🤔 I’m looking for help with ... Microsoft Azure
 - ⚡ Fun fact: I love to listen Music🎶
 
-
-### Connect with me:
-
-| [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" alt="Linkedin Logo" width="32">][linkedin] | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Twitter.svg" alt="Twitter Logo" width="32">][twitter] | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" alt="instagram logo" width="32">][instagram] | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/HackerRank.svg" alt="HackerRank Logo" width="30">][hackerrank] | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">][stackoverflow] | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">][medium] | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Gmail.svg" alt="Gmail logo" height="32">](mailto:malhotraravi842@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-<br>
 
 <h4> 💻 Skills</h4>
 <ul>
@@ -38,6 +31,20 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
 </li>
 </ul>
+
+<br/>
+
+# Connect with me<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Handshake.gif" height="32px">
+
+
+
+| [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/malhotraravi842/) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/malhotraravi842) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/ravichaudhary076/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/malhotraravi842) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/malhotraravi842) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/12828896/malhotraravi842) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@malhotraravi842/) | [<img src="https://github.com/hardeep0598/hardeep0598/blob/master/Gmail.svg" alt="Gmail logo" height="32">](mailto:malhotraravi842@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
+
+<br>
+<br>
 
 <br>
 
