@@ -1,7 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/malhotraravi842)
-## Hi there <img src="Hi.gif" width="30px">
 
-![Banner](banner.png)
+![Banner](ravi_chaudhary.gif)
 
 ### Wanna stalk my website:question::point_right: [Click Here](http://ravichaudhary.me/):sparkles:
 
