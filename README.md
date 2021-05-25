@@ -2,7 +2,7 @@
 
 ![Banner](ravi_chaudhary.gif)
 
-### Wanna stalk my website:question::point_right: [Click Here](http://ravichaudhary.me/):sparkles:
+### Wanna stalk me:question::point_right: [Click Here](http://ravichaudhary.me/):sparkles:
 
 #### I am a web developer and Competitive Programmer currently pursuing my B.Tech in CSE from Bhagalpur College of Engineering. I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. Being a Computer Science Student, Coding is like a hobby to me, Developing Web and Android Applications gives me more happiness.
 
