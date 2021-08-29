@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/malhotraravi842)
 
-![Banner](ravi_chaudhary.gif)
+![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQFvkNvNjL7bBA/profile-displaybackgroundimage-shrink_350_1400/0/1630211771375?e=1635984000&v=beta&t=Im8ys9KYtXSV49xmluyjpw_QrwzUK32RwvW8bKeYTHc)
 
 ### Wanna stalk me:question::point_right: [Click Here](http://ravichaudhary.me/):sparkles:
 
