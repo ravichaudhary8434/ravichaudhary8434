@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/malhotraravi842/malhotraravi842/blob/master/banner.gif)
 
-#### Wanna stalk me:question::point_right: [Click Here](http://ravichaudhary.codes/):sparkles:
+<!-- #### Wanna stalk me:question::point_right: [Click Here](http://ravichaudhary.codes/):sparkles: -->
 
 #### Hi, I'm a Software Engineer by profession and an explorer by choice. 😎
 #### I know a little about a lot of things in tech with a proven track record of delivering highly scalable systems. 
@@ -26,21 +26,29 @@
 - ⚡ Fun fact: I love to listen Music🎶 -->
 
 
-<h4> 💻 Skills</h4>
+####   💻 Technical Skills
 <ul>
-<li>Languages<br>
-  <!-- primary -->
-  <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-2c3e50?style=flat-square&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-8e44ad?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-E32934?style=flat-square&logo=mysql&logoColor=black&textColor=black" />
-  <!-- web -->
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-F16529?style=flat-square&logo=HTML5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=CSS3&logoColor=white" />
+<li>Languages:<br>
+  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </li>
-<li>Other:<br>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=linux&logoColor=black&textColor=black" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
+<li>Lib/Frameworks:<br>
+  <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+</li>
+<li>Platforms:<br>
+  <img alt="GCP" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</li>
+<li>Others:<br>
+  <img alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="" src="" />
 </li>
 </ul>
 
@@ -79,9 +87,9 @@
 ---
 
 
-[website]: https://www.ravichaudhary.me/
+[website]: https://www.ravichaudhary.codes/
 [twitter]: https://twitter.com/malhotraravi842
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/ravichaudhary076/
+[youtube]: https://youtube.com/channel/UCybrEriPSJ9B7JTt8PTbnhQ
+[instagram]: https://www.instagram.com/malhotraravi842/
 [linkedin]: https://linkedin.com/in/malhotraravi842
 [facebook]: https://www.facebook.com/malhotraravi842/
