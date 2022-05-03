@@ -2,9 +2,26 @@
 
 ![Banner](https://github.com/malhotraravi842/malhotraravi842/blob/master/banner.gif)
 
-### Wanna stalk me:question::point_right: [Click Here](http://ravichaudhary.me/):sparkles:
+#### Wanna stalk me:question::point_right: [Click Here](http://ravichaudhary.codes/):sparkles:
 
-#### I am a web developer and Competitive Programmer currently pursuing my B.Tech in CSE from Bhagalpur College of Engineering. I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. Being a Computer Science Student, Coding is like a hobby to me, Developing Web and Android Applications gives me more happiness.
+#### Hi, I'm a Software Engineer by profession and an explorer by choice. 😎
+#### I know a little about a lot of things in tech with a proven track record of delivering highly scalable systems. 
+
+#### I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better.
+
+#### My boring but brief work intro:
+
+- #### I'm a Software Development Engineer, worked on frontend and backend development of distributed and highly scalable systems. 
+
+- #### I write code in C++, Python, and JavaScript and have a keen interest in Cloud computing and good knowledge of Google Cloud and Microsoft Azure.
+
+- #### In my work, I've been exposed to technologies like Python, JavaScript, Django, React.js, Node.js, MongoDB, etc. 
+
+- #### I've also explored Flutter Application development and Artificial Intelligence for some time as well.
+
+- #### I enjoy solving problems of Data Structures & Algorithms on LeetCode, GeeksForGeeks, and CodeForces.
+
+- #### Other than Coding, My Hobbies are playing chess and reading books related to Finance and Stocks.
 
 
 - 🔭 I’m currently working on React.js & Node.js
