@@ -1,13 +1,13 @@
 ![Profile views](https://gpvc.arturio.dev/malhotraravi842)
 
-![Banner](https://media-exp1.licdn.com/dms/image/C4E16AQFvkNvNjL7bBA/profile-displaybackgroundimage-shrink_350_1400/0/1630211771375?e=1635984000&v=beta&t=Im8ys9KYtXSV49xmluyjpw_QrwzUK32RwvW8bKeYTHc)
+![Banner](https://github.com/malhotraravi842/malhotraravi842/blob/master/banner.gif)
 
 ### Wanna stalk me:question::point_right: [Click Here](http://ravichaudhary.me/):sparkles:
 
 #### I am a web developer and Competitive Programmer currently pursuing my B.Tech in CSE from Bhagalpur College of Engineering. I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new things; the more, the better. Being a Computer Science Student, Coding is like a hobby to me, Developing Web and Android Applications gives me more happiness.
 
 
-- 🔭 I’m currently working on Django & Flutter
+- 🔭 I’m currently working on React.js & Node.js
 - 🌱 I’m currently learning Everything🤣
 - 👯 I’m looking to collaborate with other Web Developers
 - 💬 Ask me about ... Data Structure & Algorithms
