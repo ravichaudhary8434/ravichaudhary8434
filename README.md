@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Ravi Chaudhary 👋</h1>
 
 <p align="center">
-  <a href="https://www.ravichaudhary.codes/"><b>ravichaudhary.codes</b></a> ·
   <a href="https://www.linkedin.com/in/ravichaudhary8434/">LinkedIn</a> ·
   <a href="https://twitter.com/ravichaudhary8_">X / Twitter</a> ·
   <a href="https://leetcode.com/ravichaudhary8434/">LeetCode</a>
