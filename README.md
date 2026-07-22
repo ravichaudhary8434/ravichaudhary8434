@@ -47,9 +47,9 @@
 
 #### 📬 Connect with me
 
-| [<img src="https://cdn.simpleicons.org/linkedin" width="32" alt="LinkedIn">](https://www.linkedin.com/in/ravichaudhary8434/) | [<img src="https://cdn.simpleicons.org/x/000000" width="28" alt="X">](https://twitter.com/ravichaudhary8_) | [<img src="https://cdn.simpleicons.org/leetcode" width="32" alt="LeetCode">](https://leetcode.com/ravichaudhary8434/) | [<img src="https://cdn.simpleicons.org/gmail" width="32" alt="Gmail">](mailto:ravichaudhary8434@gmail.com) |
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" alt="LinkedIn">](https://www.linkedin.com/in/ravichaudhary8434/) | [<img src="https://cdn.simpleicons.org/x/000000" width="28" alt="X">](https://twitter.com/ravichaudhary8_) | [<img src="https://cdn.simpleicons.org/leetcode" width="32" alt="LeetCode">](https://leetcode.com/ravichaudhary8434/) | [<img src="https://cdn.simpleicons.org/gmail" width="32" alt="Gmail">](mailto:ravichaudhary8434@gmail.com) |
 |:---:|:---:|:---:|:---:|
 
 <br>
 
-[![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravichaudhary8434&show_icons=true)](https://github.com/ravichaudhary8434)
+[![Ravi's GitHub stats](https://github-readme-stats.zohan.tech/api?username=ravichaudhary8434&show_icons=true)](https://github.com/ravichaudhary8434)
