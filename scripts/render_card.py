@@ -101,11 +101,14 @@ def card(p: dict) -> str:
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{h}" viewBox="0 0 {W} {h}" role="img" aria-label="{NAME}: fullstack software engineer. Backend Go, Python, Node.js; AI with OpenAI API and Claude Code; most recently at TestMu AI (formerly LambdaTest).">
 <style>
   text {{ font-family: {FONT}; font-size: 14px; }}
-  .l {{ opacity: 0; animation: in .45s ease-out forwards; }}
+  /* Visible by default; the slide-in only borrows the hidden start state while
+     it is actually animating (fill-mode backwards). Viewers that don't run SVG
+     animations show the finished card instead of a blank one. */
+  .l {{ animation: in .45s ease-out backwards; }}
   @keyframes in {{ from {{ opacity: 0; transform: translateX(-6px); }} to {{ opacity: 1; transform: none; }} }}
   .cursor {{ animation: blink 1s steps(1) infinite; }}
   @keyframes blink {{ 50% {{ opacity: 0; }} }}
-  @media (prefers-reduced-motion: reduce) {{ .l {{ animation: none; opacity: 1; }} .cursor {{ animation: none; }} }}
+  @media (prefers-reduced-motion: reduce) {{ .l {{ animation: none; }} .cursor {{ animation: none; }} }}
 </style>
 <rect x="0.5" y="0.5" width="{W - 1}" height="{h - 1}" rx="14" fill="{p["bg"]}" stroke="{p["line"]}" />
 <path d="M0.5 14.5a14 14 0 0 1 14-14h{W - 29}a14 14 0 0 1 14 14v37h-{W - 1}z" fill="{p["surface"]}" />
