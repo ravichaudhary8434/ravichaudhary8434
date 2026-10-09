@@ -1,14 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="478" viewBox="0 0 520 478" role="img" aria-label="Ravi Chaudhary: fullstack software engineer. Backend Go, Python, Node.js; AI with OpenAI API and Claude Code; most recently at TestMu AI (formerly LambdaTest).">
 <style>
   text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 14px; }
-  /* Visible by default; the slide-in only borrows the hidden start state while
-     it is actually animating (fill-mode backwards). Viewers that don't run SVG
-     animations show the finished card instead of a blank one. */
-  .l { animation: in .45s ease-out backwards; }
-  @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+  /* No entrance animation: a frozen or background renderer must never show a
+     blank card. Only the cursor blinks. */
   .cursor { animation: blink 1s steps(1) infinite; }
   @keyframes blink { 50% { opacity: 0; } }
-  @media (prefers-reduced-motion: reduce) { .l { animation: none; } .cursor { animation: none; } }
+  @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
 </style>
 <rect x="0.5" y="0.5" width="519" height="477" rx="14" fill="#f6f4ef" stroke="#dedad1" />
 <path d="M0.5 14.5a14 14 0 0 1 14-14h491a14 14 0 0 1 14 14v37h-519z" fill="#eeebe4" />
