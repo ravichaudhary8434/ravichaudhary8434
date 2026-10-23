@@ -29,11 +29,3 @@
 **Frontend** React · Redux · TypeScript · Chrome extensions (MV3)
 **Infra** AWS · Docker · Kubernetes · OpenSearch
 **AI** OpenAI GPT in production: prompt design, output validation and failure-driven iteration
-
-### Featured
-
-| Project | What it is |
-|---|---|
-| [**frontend-platform-reference**](https://github.com/ravichaudhary8434/frontend-platform-reference) | A working reference for frontend platform engineering: protocols, performance, security, testing. |
-| [**ravichaudhary.dev**](https://ravichaudhary.dev) | My portfolio. Next.js, styled-components, SCSS. |
-
