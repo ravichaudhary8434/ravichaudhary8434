@@ -13,8 +13,6 @@
   <a href="https://leetcode.com/ravichaudhary8434/">LeetCode</a>
 </p>
 
-<p align="center"><b>Open to full-stack and backend roles. Available to join immediately.</b></p>
-
 ---
 
 ### What I've shipped
