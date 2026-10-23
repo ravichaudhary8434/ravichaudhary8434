@@ -20,7 +20,7 @@
 ### What I've shipped
 
 - **AI-powered accessibility engine** at TestMu AI. I led a team of 4 engineers and 2 QA and owned the architecture and backend end to end (Python/FastAPI + Go + OpenAI GPT). It scans a page, finds WCAG violations and generates element-level fixes: corrected markup, ARIA attributes and the reasoning behind each change. Fixes are validated by re-scanning to confirm the violation cleared.
-- **Scan scheduling** on top of that engine, running 1K+ scans a month with no one in the loop.
+- **Scan scheduling** on top of that engine: crawls up to 10K URLs and surfaces their accessibility issues, with no one in the loop.
 - **Accessibility Chrome extension** (Manifest V3), rebuilt. 3K+ users, 4.9★.
 - **Multi-app React hosting on AWS CloudFront Functions.**
 - **Crypto exchange trading interface** at LCX: TradingView charts and low-latency sockets that cut trade execution time by 50%. Also auth, KYC, wallets and sanctions/PEP screening.
